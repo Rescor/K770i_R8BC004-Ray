@@ -1,0 +1,11 @@
+;K770 SW-R8BC004
+;Убрать гудок при старте диктофона и записи разговора
+;Remove voicerecoreder beep
+;v.2
+;(С)SiNgle
+;(p)nil
++44140000
+1AC1AC0: 1E 00
+1AC1ADC: 14 00
+F5267D: D2 E0
+F526C1: D1 E0

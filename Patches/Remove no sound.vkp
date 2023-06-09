@@ -1,0 +1,6 @@
+;K770 SW-R8BC004
+;Remove "nosound" message when turn on silent mode
+;(c) SiNgle
+;(p) mc_kibel
++44140000
+12b94d6: 0021 06E0

@@ -1,0 +1,12 @@
+;K770 SW-R8BC004
+;Убрать окошко о залочке кнопок
+;Сразу после блокировки включается слипмод
+;Не ставьте заставку
+;Clear window on lock buttons
+;Now no delay occurs immediately block 
+;When locked immediately included sleep
+;At no place screensaver
+;v. 3
+;© IronMaster
+;(p) E1kolyan
+454C913A: D0F7CBFF0D49A06AE1F75DF8 201CFFF7CEFF00F02CF830BD

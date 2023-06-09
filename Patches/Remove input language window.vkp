@@ -1,0 +1,6 @@
+; K770 R8BC004
+; Switching to more than 2 input languages retaining key #
+; Window \"Input Language\" does not appear
+; © 2007KrasH
+; (p) MEHRDAD
+4542751A: 03 FF

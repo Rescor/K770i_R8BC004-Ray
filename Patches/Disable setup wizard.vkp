@@ -1,0 +1,7 @@
+;K770 SW-R8BC004
+;disable setupwizard on simcard change
+;отключаем мастер настройки при смене симок
+;(c) den_po
+;(p) andrei_3d
++44140000
+12B8B78: 02D1 09E0

@@ -1,0 +1,8 @@
+;K770 SW-R8BC004
+;Work radio in "Flight Mode"
+;Работа радио в режиме "Flight Mode"
+;(c) CyberMaster
+;(c) human83
+;(p) ELECTRO-NIC
+45246D3E: 07D0 07E0
+45243EC6: 00280DD1 C046C046

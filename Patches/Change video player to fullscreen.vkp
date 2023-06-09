@@ -1,0 +1,7 @@
+;K770 R8BC004
+;Change Gui of Video Player to Fullscreen
+;Recommeded to apply "Get the Video settings of Videoplayer in Filemanager" too, so you can watch Fullscreen in File Manager too
+;© yener90
+;(p) moedjs
+4508b912: 307B012804D1F078002801D1A06B7CE1 0421A06B0DF14FFCA06BE5F0B0F8A06B
+4508b922: A06B 7BE1

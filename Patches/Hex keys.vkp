@@ -1,0 +1,9 @@
+;K770 SW-R8BC004
+;KeyCode
+;Viewing of hex-numbers of keys in "Service tests/Keyboard"
+;Отображение hex-кодов клавиш в "Служебн. тесты"-"Клавиатура"
+;(c) ndt
+;(p) Mikaёль
+45168BBC: 00D9 C046
+45168D62: 36A1 35A1
+45168E38: 19EC00003F256400 3078253032580A00

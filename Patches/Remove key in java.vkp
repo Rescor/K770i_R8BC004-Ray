@@ -1,0 +1,9 @@
+;K770 SW-R8BC004
+;Убрать ключик в папках с Java
+;Остаётся значёк размещения файла в телефоне/на флэшке
+;Delete Icon Key in Java
+;v 0.1
+;(c) Adrian. Top Sony Team
+;(p) nil
++44140000
+F6959C: 0CEA00000BEA000006EA000005EA0000 0DEA00000DEA000030EA000030EA0000

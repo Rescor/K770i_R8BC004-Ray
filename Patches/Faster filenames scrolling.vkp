@@ -1,0 +1,9 @@
+;K770 SW-R8BC004 
+;Более шустрая перемотка длинных имён файлов 
+;Faster long filename scrolling 
+;© SiNgle 
+;(p) Dm1 
+4544FC58: FA21 4A21 
+4544FD18: FA21 4A21 
+4544FDE4: FA21 4A21 
+4544FE31: 0B 05

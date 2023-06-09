@@ -1,0 +1,5 @@
+;K770 SW-R8BC004
+;Save editing SMS in draft automaticaly when press "back" Key
+;(p) johnliang
++44140000
+104D1BB: D0 E0

@@ -1,0 +1,6 @@
+;K770 SW-R8BC004
+;Убрать вопрос "Продолжить?" при включениие Bluetooth в Flight Mode
+;Теперь Bluetooth включается сразу
+;(c) 2007KrasH
+;(p) ELECTRO-NIC
+44EB980B: D0 E0

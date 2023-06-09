@@ -1,0 +1,7 @@
+; K770 SW-R8BC004
+; Enable Play  Pause at the keyboard blocked
+; (C) IronMaster 
+; (P) MEHRDAD
++44140000
+1388D6C: 10B5 7047 
+1213720: 16D0 16E0

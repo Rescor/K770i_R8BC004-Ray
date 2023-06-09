@@ -1,0 +1,14 @@
+;K770 R8BC004
+;Change way to showing Activity Menu
+;Now Activity Menu showing like File Manager
+;© jamesbond22
+;(p) blacklizard
+454BFE58: 09 01
+454BF30E: 09 01
+454C124E: 09 01
+454C1E88: 09 01
+454C2754: 09 01
+454C29F8: 09 01
+454C30BE: 09 01
+454C3846: 09 01
+454C3BE0: 09 01

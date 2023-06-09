@@ -1,0 +1,7 @@
+;K770 R8BC004
+;Убрать сообщения "Быстрая зарядка" и "Заряжается"
+;Remove messages "Quick charging" and "Is charged"
+;(c)IronMaster
+;(p) bazya
++44140000
+12B44BE: 0022 1BE0

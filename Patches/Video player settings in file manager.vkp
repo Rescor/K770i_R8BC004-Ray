@@ -1,0 +1,6 @@
+;K770 R8BC004
+;Get the Video setings of Videoplayer in Filemanager
+;© yener90
+;(p) blacklizard
++44140000
+F4AE6C: 30D1 C046

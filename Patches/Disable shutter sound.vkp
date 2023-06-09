@@ -1,0 +1,9 @@
+;K770 R8BC004
+;possibility to disable shutter sound
+;Shutter sound 4 changed to Without sound
+;autofocus still sounds
+;(c) yener90
+;(p) moedjs
++44140000
+2974D6: 2F 00
+1AF332C: D202 C320 ; label "Without sound"

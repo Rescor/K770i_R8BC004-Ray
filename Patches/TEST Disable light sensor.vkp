@@ -1,0 +1,6 @@
+;K770 SW-R8BC004
+;Отключить датчик освещенности
+;Disable  light sensor
+;v. 1fix
+;(c) IronMaster
+453D2E1C: 0088 FF20

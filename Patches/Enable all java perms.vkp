@@ -1,0 +1,6 @@
+;K770 SW-R8BC004
+;enable all java permissions settings (+"never ask")
+;(c) den_po
+;(p) moedjs
++44140000
+1271328: 027B 0222

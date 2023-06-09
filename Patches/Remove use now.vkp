@@ -1,0 +1,5 @@
+;K770 R8BC004
+;Remove box "Use now?" After receiving the file
+;(c) E1kolyan
+;(p) moedjs
+4500a7a8: 52F166FE31E0029A 201CFFF7BCFD30E0

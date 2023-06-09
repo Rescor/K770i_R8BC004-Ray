@@ -1,0 +1,5 @@
+;K770 SW-R8BC004
+;Hide softkeys in flashmenu
+;© yener90
+;(p) radodendron
+451707B4: DE080000 20000078

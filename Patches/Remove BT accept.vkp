@@ -1,0 +1,6 @@
+;K770 SW-R8BC004
+;Убрать подтверждение при принятии файла через bluetooth/etc
+;Remove "accept file? (yes/no)" prompt when receiving files over bluetooth/etc.
+;© the_laser
+;(p) nil
+45BBD660: 9D4B F14D

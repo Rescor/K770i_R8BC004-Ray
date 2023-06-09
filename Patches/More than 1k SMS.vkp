@@ -1,0 +1,8 @@
+;K770 SW-R8BC004
+;Возможность хранить более 1000 смс
+;Possibility to store more SMS (was 1000)
+;(c) demion
+;(p) radodendron
+;4527A3FA: FA229200 7D221201; 2000 SMS
+;4527A3FA: FA229200 FA221201; 4000 SMS
+4527A3FA: FA229200 9D229201; 10000 SMS

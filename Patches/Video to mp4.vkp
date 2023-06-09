@@ -1,0 +1,16 @@
+;K770_R8BA004
+;Замена расширения записи видео на.mp4
+;Портирован программой ConvertPatch - у меня работает!
+;Качество НЕ меняется!
+; Replacement of expansion of record of video on *.mp4
+; Quality does not vary!
+;v2
+;Включена поддержка расширения mp4 в VideoDJ
+;Support of extention *.mp4 now available in VideoDJ
+;(c) mobilefree
+;(p) polza
+;Ported by ConvertPatch soft version 0.0.0.4
++44140000
+1B4F0E4: 3300670070 2A00000000
+1B4F120: 3300670070 6D00700034
+1BC1134: 3300470050 4D00500034

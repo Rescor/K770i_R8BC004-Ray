@@ -1,0 +1,7 @@
+;K770 R8BC004
+;Hide links "Sony Ericsson"
+;Order not tormented with removal of custom files
+;(c) dimonp25
+;(p) MEHRDAD
+453EC372: AE42 c046 ; remove Internet icon
+453EC28E: 1dd0 1de0 ; remove name "Sony Ericsson

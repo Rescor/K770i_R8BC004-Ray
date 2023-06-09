@@ -1,0 +1,8 @@
+;K770 SW-R8BC004
+;SMS in rapid way
+;when you choose "write new" will directly open sms editor
+;if you wanna send MMS, you can do it via file manager
+;(c) IronMaster
+;(p) moedjs
+4518d7c6: 0021201CC5F2E3FFA86100282ED03168 FF215131615809782868E8F7B8F80221
+4518d7d6: 0CF3D1FDA86909210CF3 201C56F258FE00F02DF8

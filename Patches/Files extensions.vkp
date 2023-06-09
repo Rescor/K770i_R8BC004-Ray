@@ -1,0 +1,7 @@
+;K770 SW-R8BC004 
+;Отображение файлов вместе с расширением 
+;Displays files with the extension 
+;© IronMaster 
+;(p) Dm1
+44FF378A: AA1B 2A1C 
+44FF899A: AA1B 2A1C

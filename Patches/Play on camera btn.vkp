@@ -1,0 +1,7 @@
+;K770 R8BС004
+;Кнопка Play/Pause на коротком нажатии кнопки камеры
+;Play/pause button by short pressing camera
+;(c) IronMaster
+;(p) Mikaёль
++44140000
+12A3F20: 36 42

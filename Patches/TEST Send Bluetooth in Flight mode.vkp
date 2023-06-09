@@ -1,0 +1,6 @@
+;K770 R8BC004
+; Remove the restriction on the transfer of files in File Manager mode "Flight Mode" switched off Bluetooth
+;v.1.0 fix
+;© KrasH
+;(P) MEHRDAD
+44EC0A66: 0BD0 0FE0

@@ -1,0 +1,6 @@
+;K770 SW-R8BC004
+; Удалить "ошибки в файле menu.ml ..." Сообщение
+;Remove message "Errors occur in the menu.ml file..."
+;(c) markross
+;(p) radodendron
+45CED1D8: 9CD2CE45 74D2CE45
